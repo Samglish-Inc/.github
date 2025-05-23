@@ -1,5 +1,5 @@
 <h2 align="center">Wadjonautes | Start Up </h2>
-<h3 align="center">Expert NSE | Expert Cybersecurity | Software Dev | NDG LINUX AND NDG LINUX SERIES </h3>
+<h3 align="center">Our Andal-AI application intergrates chatbot to fufuldé local language and Virtual Reality Headset </h3>
 <div style="display: flex; justify-content: space-between;">
 <p align="center">
    <a href="https://medium.com/@beidisamuel11">
