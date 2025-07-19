@@ -1,4 +1,4 @@
-<h2 align="center">Wadjonautes | Start Up </h2>
+<h2 align="center"> Samglish Inc | Wadjonautes | Start Up </h2>
 <h3 align="center">Our Andal-AI application intergrates chatbot to fufuldé local language and Virtual Reality Headset </h3>
 <div style="display: flex; justify-content: space-between;">
 <p align="center">
